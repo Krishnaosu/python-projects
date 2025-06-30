@@ -1,8 +1,8 @@
-# ?? Python Projects: Learning Data Analysis
+#  Python Projects: Learning Data Analysis
 
 Welcome! This repository contains a set of beginner-level Python projects I created as part of my journey to learn data analysis and improve my Python skills. Each notebook focuses on data exploration, cleaning, and basic insights using real-world datasets.
 
-## ?? Projects Included
+##  Projects Included
 
 1. **P1_Weather.ipynb**  
    Performed basic cleaning and explored weather trends from a CSV dataset.
@@ -19,21 +19,21 @@ Welcome! This repository contains a set of beginner-level Python projects I crea
 5. **P5_London_Housing.ipynb**  
    Conducted basic data analysis on housing prices using sorting, filtering, and plotting.
 
-## ?? Tools Used
+##  Tools Used
 
 - Python
 - Pandas
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
-## ?? Purpose
+##  Purpose
 
 These projects helped me:
 - Practice Python syntax and data structures
 - Learn how to clean and explore datasets
 - Use basic visualizations to support analysis
 
-## ?? Next Steps
+##  Next Steps
 
 I plan to:
 - Add documentation to each notebook
@@ -42,6 +42,6 @@ I plan to:
 
 ---
 
-?? **Author**: Krishna Konduri  
-?? MBA Candidate | Chemical Engineer  
-?? [LinkedIn](https://www.linkedin.com/in/krishnakonduri) | [GitHub](https://github.com/Krishnaosu)
+ **Author**: Krishna Konduri  
+ MBA | Chemical Engineer  
+ [LinkedIn](https://www.linkedin.com/in/krishnakonduri) | [GitHub](https://github.com/Krishnaosu)
