@@ -1,23 +1,47 @@
-# Python Projects Portfolio
+# ?? Python Projects: Learning Data Analysis
 
-This repository contains a collection of beginner-to-intermediate level data analysis projects completed using Python and Jupyter Notebook. Each project focuses on using real-world datasets to extract insights using pandas, matplotlib, seaborn, and more.
+Welcome! This repository contains a set of beginner-level Python projects I created as part of my journey to learn data analysis and improve my Python skills. Each notebook focuses on data exploration, cleaning, and basic insights using real-world datasets.
 
-## Projects Included
+## ?? Projects Included
 
-1. **Weather Data Analysis** – Cleaned and analyzed weather data to find trends, extremes, and correlations.
-2. **Cars Dataset Exploration** – Performed EDA on car features including mileage, fuel type, and prices.
-3. **Police Dataset** – Analyzed police stop records to identify policy and procedural patterns.
-4. **COVID-19 Regional Impact** – Aggregated and visualized COVID-19 cases and fatalities across regions.
-5. **London Housing** – Explored housing price trends and factors influencing affordability in London.
+1. **P1_Weather.ipynb**  
+   Performed basic cleaning and explored weather trends from a CSV dataset.
 
-## Tools & Libraries
-- Python 3.12
-- Jupyter Notebook
+2. **P2_Cars.ipynb**  
+   Cleaned and analyzed car data to practice data wrangling and understand patterns.
+
+3. **P3_Police.ipynb**  
+   Worked with a police dataset to clean missing values and generate simple summaries.
+
+4. **P4_Covid.ipynb**  
+   Explored regional COVID-19 data, identified null values, and used grouping functions.
+
+5. **P5_London_Housing.ipynb**  
+   Conducted basic data analysis on housing prices using sorting, filtering, and plotting.
+
+## ?? Tools Used
+
+- Python
 - Pandas
-- Matplotlib
-- Seaborn
+- Matplotlib / Seaborn
+- Jupyter Notebook
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Krishnaosu/python-projects.git
+## ?? Purpose
+
+These projects helped me:
+- Practice Python syntax and data structures
+- Learn how to clean and explore datasets
+- Use basic visualizations to support analysis
+
+## ?? Next Steps
+
+I plan to:
+- Add documentation to each notebook
+- Build beginner machine learning projects
+- Learn version control and collaboration with GitHub
+
+---
+
+?? **Author**: Krishna Konduri  
+?? MBA Candidate | Chemical Engineer  
+?? [LinkedIn](https://www.linkedin.com/in/krishnakonduri) | [GitHub](https://github.com/Krishnaosu)
